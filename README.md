@@ -1,1 +1,1 @@
-# node-app
+# pricing-table
